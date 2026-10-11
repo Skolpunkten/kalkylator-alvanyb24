@@ -1,2 +1,3 @@
-# kalkylator-alvanyb24
-Kalkylator – Alva Nyberg
+# Kalkylator
+
+Alva Nyberg
